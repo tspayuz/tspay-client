@@ -12,12 +12,6 @@ This package provides a simple and convenient way to integrate TSPay payment pro
 ## Table of Contents
 
 1. [Installation](#installation)  
-2. [Quick Start](#quick-start)  
-3. [API Reference](#api-reference)  
-4. [Error Handling](#error-handling)  
-5. [Examples](#examples)  
-6. [Contributing](#contributing)  
-7. [License](#license)  
 
 ---
 
@@ -28,3 +22,4 @@ Install the package using pip:
 ```bash
 pip install tspay-client
 ```
+
